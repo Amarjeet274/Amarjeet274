@@ -11,6 +11,7 @@
 - React
 - JavaScript
 - Git & GitHub
+- node, next.jsx
 
 ## 📌 Projects
 - 🎵 Spotify Clone (UI Design)
