@@ -1,9 +1,9 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amarjeet Maurya</h1>
-<h3 align="center">Full Stack Developer | Python & AI Enthusiast</h3>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amarjeet Maurya</h1>
+# Full Stack Developer | Python & AI Enthusiast
 
-<p align="center">
-Building real-world applications and exploring new technologies 🚀
-</p>
+-----
+
+# Building real-world applications and exploring new technologies 🚀
 
 ---
 
