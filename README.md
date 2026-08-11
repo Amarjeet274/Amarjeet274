@@ -11,7 +11,7 @@ Full Stack Developer | Python & AI Enthusiast
 </p>
 
 
-### 🚀 About me
+## 🚀 About me
 
 - 🌍 I'm based in Gorakhpur, India
 - 🌐 Frontend: HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap, Vite
@@ -24,10 +24,10 @@ Full Stack Developer | Python & AI Enthusiast
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-As a <b>Full Stack Developer</b>, I specialize in building responsive web applications and reliable backend systems that turn ideas into practical digital solutions. My technical experience spans <b>JavaScript, TypeScript, React, Node.js, Express.js, Python, and SQL</b>, along with databases such as <b>MySQL, MongoDB, PostgreSQL, and SQLite</b>. I enjoy designing clean user interfaces, developing RESTful APIs, and creating efficient database-driven applications with a focus on performance, scalability, and usability.
+<p>
+As a <b>Full Stack Developer</b>, I specialize in building responsive web applications and reliable backend systems that turn ideas into practical digital solutions. My technical experience spans <b>JavaScript, TypeScript, React, Node.js, Express.js, Python, and SQL</b>, along with databases such as <b>MySQL, MongoDB, PostgreSQL, and SQLite</b>. I enjoy designing clean user interfaces, developing RESTful APIs, and creating efficient database-driven applications with a focus on performance, scalability, and usability.</p>
 
-
-Pursuing my <b>B.Tech in Computer Science & Engineering at DDU Gorakhpur University</b>, I am continuously strengthening my foundation in <b>Data Structures & Algorithms, Database Management Systems, Software Development, and Problem Solving</b>. Alongside full-stack development, I have explored <b>Artificial Intelligence and Machine Learning</b>, working on practical projects that combine software engineering with intelligent solutions. I am driven by a passion for learning, building real-world applications, and continuously improving my development skills through hands-on projects and industry experience.
+<p>Pursuing my <b>B.Tech in Computer Science & Engineering at DDU Gorakhpur University</b>, I am continuously strengthening my foundation in <b>Data Structures & Algorithms, Database Management Systems, Software Development, and Problem Solving</b>. Alongside full-stack development, I have explored <b>Artificial Intelligence and Machine Learning</b>, working on practical projects that combine software engineering with intelligent solutions. I am driven by a passion for learning, building real-world applications, and continuously improving my development skills through hands-on projects and industry experience.</p>
 
 
 <p>
