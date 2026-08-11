@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amarjeet Maurya
+<h1 align="center"># Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amarjeet Maurya</h1>
 <h3 align="center">Full Stack Developer | Python & AI Enthusiast</h3>
 
 <p align="center">
@@ -44,23 +44,15 @@ Building real-world applications and exploring new technologies 🚀
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" alt="VS Code" />
 </p>
 
-### 📊 GitHub stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amarjeet274&theme=transparent" alt="Profile Details">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amarjeet274&theme=transparent" alt="GitHub Stats">
+<img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Amarjeet274&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages">
+  
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amarjeet274&theme=transparent" alt="Most Commit Language">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amarjeet274&bg_color=141414&color=cce6ff&line=61dafb&point=00bfff&area=true&hide_border=true" alt="Activity Graph">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amarjeet274&show_icons=true&theme=transparent" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeet274&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amarjeet274&bg_color=141414&color=cce6ff&line=61dafb&point=00bfff&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
-### 🪶 Badges
-
-<p align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="GSSoC" /></a>
-</p>
 
 ### 🌐 Connect with me
 
