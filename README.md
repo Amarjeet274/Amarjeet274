@@ -3,6 +3,14 @@
 Full Stack Developer | Python & AI Enthusiast
 ------------------------------------ 
 
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Amarjeet274" alt="trophy" />
+</p>
+
+
 ### 🚀 About me
 
 - 🌍 I'm based in Gorakhpur, India
@@ -13,7 +21,13 @@ Full Stack Developer | Python & AI Enthusiast
 - ☁️ Cloud & Tools: Google Cloud, Git, VS Code, Figma
 - 🤖 AI/ML: Python, Machine Learning, data preprocessing, model development and evaluation
 
-### 🌐 Connect with me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+As a **Full Stack Developer**, I specialize in building responsive web applications and reliable backend systems that turn ideas into practical digital solutions. My technical experience spans **JavaScript, TypeScript, React, Node.js, Express.js, Python, and SQL**, along with databases such as **MySQL, MongoDB, PostgreSQL, and SQLite**. I enjoy designing clean user interfaces, developing RESTful APIs, and creating efficient database-driven applications with a focus on performance, scalability, and usability.
+
+Pursuing my **B.Tech in Computer Science & Engineering at DDU Gorakhpur University**, I am continuously strengthening my foundation in **Data Structures & Algorithms, Database Management Systems, Software Development, and Problem Solving**. Alongside full-stack development, I have explored **Artificial Intelligence and Machine Learning**, working on practical projects that combine software engineering with intelligent solutions. I am driven by a passion for learning, building real-world applications, and continuously improving my development skills through hands-on projects and industry experience.
+
 
 <p>
   <a href="https://www.linkedin.com/in/amarjeet-maurya"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" /></a>
@@ -21,15 +35,6 @@ Full Stack Developer | Python & AI Enthusiast
 <p>
   <img src="https://img.shields.io/github/followers/Amarjeet274?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
 </p>
-
-
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Amarjeet274" alt="trophy" />
-</p>
-
 
 
 ### 🛠️ Skills
