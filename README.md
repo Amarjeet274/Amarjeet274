@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Amarjeet Maurya
-
-<p align="center">
+# Hi, p align="inline">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100%" />
-</p>
+</p>I'm Amarjeet Maurya
+
+<
 
 <h3 align="center">
   💻 Full Stack Developer in Progress
