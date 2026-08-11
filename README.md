@@ -8,8 +8,8 @@ Full Stack Developer | Python & AI Enthusiast
 - 🌍 I'm based in Gorakhpur, India
 - 🌐 Frontend: HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap, Vite
 - ⚙️ Backend: Node.js, Express.js
-- 🗄️ Databases: MySQL, MongoDB, PostgreSQL, SQLite
-- 🐍 Programming: Python, C++, JavaScript, TypeScript, SQL
+- 🗄️ Databases: MySQL, MongoDB, PostgreSQL
+- 🐍 Programming: Python, JavaScript, TypeScript, SQL
 - ☁️ Cloud & Tools: Google Cloud, Git, VS Code, Figma
 - 🤖 AI/ML: Python, Machine Learning, data preprocessing, model development and evaluation
 
