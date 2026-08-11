@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Amarjeet Maurya</h1>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amarjeet Maurya
 <h3 align="center">Full Stack Developer | Python & AI Enthusiast</h3>
 
 <p align="center">
